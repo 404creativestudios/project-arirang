@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button { min-height: 44px; }
+input, select { min-height: 44px; }
+html, body { -webkit-overflow-scrolling: touch; }
